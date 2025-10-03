@@ -5,7 +5,7 @@ endpoint = "https://demo-openai-sowmith.openai.azure.com/"
 model_name = "gpt-35-turbo"
 deployment = "gpt-35-turbo"
 
-subscription_key = "4nNBZhVvPSDnNBD2mk9HxtEFFuRJNhbLCxrhjFpzUaV803lOmPxpJQQJ99BDAC77bzfXJ3w3AAABACOGp1sS"
+subscription_key = ""
 api_version = "2024-12-01-preview"
 
 client = AzureOpenAI(
